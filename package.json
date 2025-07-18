@@ -18,7 +18,8 @@
   "keywords": [
     "node",
     "hyperdev",
-    "express"
+    "express",
+    "bcrypt"
   ],
   "license": "MIT"
 }
